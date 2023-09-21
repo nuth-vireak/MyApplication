@@ -12,4 +12,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main); //
     }
     // vireak
+
+    public void test() {
+        System.out.println("This is from vireak");
+    }
 }
